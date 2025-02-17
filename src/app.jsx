@@ -19,7 +19,7 @@ export default function App() {
                     <menu className="navbar-nav">
                     <li className="nav-item">
                         <NavLink className="nav-link" to="/">
-                        Hunter
+                        Login
                         </NavLink>
                     </li>
                     <li className="nav-item">
